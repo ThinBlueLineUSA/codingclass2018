@@ -1,0 +1,14 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\bin\Debug\Guess the Number.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.pdb
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe.config
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\bin\Debug\Guess the Number.exe
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\bin\Debug\Guess the Number.pdb
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.exe
+C:\Users\natal\OneDrive - Academy District 20\Coding\Guess the Number\Guess the Number\obj\Debug\Guess the Number.pdb

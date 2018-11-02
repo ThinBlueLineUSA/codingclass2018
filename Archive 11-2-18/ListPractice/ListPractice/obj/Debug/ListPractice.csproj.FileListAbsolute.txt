@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\bin\Debug\ListPractice.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\bin\Debug\ListPractice.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\bin\Debug\ListPractice.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\obj\Debug\ListPractice.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\obj\Debug\ListPractice.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\obj\Debug\ListPractice.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\ListPractice\ListPractice\obj\Debug\ListPractice.pdb

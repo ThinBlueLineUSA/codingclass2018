@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\bin\Debug\hackerman.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\bin\Debug\hackerman.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\bin\Debug\hackerman.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\obj\Debug\hackerman.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\obj\Debug\hackerman.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\obj\Debug\hackerman.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\hackerman\hackerman\obj\Debug\hackerman.pdb

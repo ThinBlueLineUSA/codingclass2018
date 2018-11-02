@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\bin\Debug\RollerCoaster.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\bin\Debug\RollerCoaster.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\bin\Debug\RollerCoaster.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\RollerCoaster\RollerCoaster\obj\Debug\RollerCoaster.pdb

@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\bin\Debug\2DArrays.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\bin\Debug\2DArrays.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\bin\Debug\2DArrays.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\obj\Debug\2DArrays.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\obj\Debug\2DArrays.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\obj\Debug\2DArrays.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\2DArrays\2DArrays\obj\Debug\2DArrays.pdb

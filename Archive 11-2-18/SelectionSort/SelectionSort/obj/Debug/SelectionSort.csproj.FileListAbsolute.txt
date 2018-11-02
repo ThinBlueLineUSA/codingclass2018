@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\bin\Debug\SelectionSort.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\bin\Debug\SelectionSort.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\obj\Debug\SelectionSort.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\obj\Debug\SelectionSort.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\SelectionSort\SelectionSort\obj\Debug\SelectionSort.pdb

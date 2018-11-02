@@ -1,0 +1,152 @@
+X
+
+for (int i = 0; i < 1; i++)
+        {
+            for (int j = 0; j < 1; j++)
+            {
+                Console.Write("X");
+            }
+            Console.WriteLine();
+        }
+
+XXX
+XXX
+XXX
+
+for (int i = 0; i < 3; i++)
+        {
+            for (int j = 0; j < 3; j++)
+            {
+                Console.Write("X");
+            }
+            Console.WriteLine();
+        }        
+
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+XXXXX
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                Console.Write("X");
+            }
+            Console.WriteLine();
+        }
+
+X
+XX
+XXX
+XXXX
+XXXXX
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (j == i || j == i - 1 || j == i - 2 || j == i - 3 || j == i - 4)
+                    Console.Write("X");
+                else
+                    Console.Write(" ");
+            }
+            Console.WriteLine();
+        }
+
+    X
+   XX
+  XXX
+ XXXX
+XXXXX
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (4 - j == i || 5 - j == i || 6 - j == i || 7 - j == i || 8 - j == i)
+                    Console.Write("X");
+                else
+                    Console.Write(" ");
+            }
+            Console.WriteLine();
+        }
+
+  X  
+ XXX 
+XXXXX
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (i == 2)
+                    Console.Write("X");
+                else if (i == 0 && j == 2)
+                    Console.Write("X");
+                else if (i == 1 && j == 1 || i == 1 && j == 2 || i == 1 && j == 3)
+                    Console.Write("X");
+                else
+                    Console.Write(" ");
+            }
+            Console.WriteLine();
+        }
+
+ XXXX
+X XXX
+XX XX
+XXX X
+XXXX 
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (j == i)
+                    Console.Write(" ");
+                else
+                    Console.Write("X");
+            }
+            Console.WriteLine();
+        }
+
+XXXX 
+XXX X
+XX XX
+X XXX
+ XXXX
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (4 - j == i)
+                    Console.Write(" ");
+                else
+                    Console.Write("X");
+            }
+            Console.WriteLine();
+        }
+
+ XXX 
+X X X
+XX XX
+X X X
+ XXX 
+
+for (int i = 0; i < 5; i++)
+        {
+            for (int j = 0; j < 5; j++)
+            {
+                if (j == i || 4 - j == i)
+                    Console.Write(" ");
+                else
+                    Console.Write("X");
+            }
+            Console.WriteLine();
+        }
+
+
+
+

@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\bin\Debug\i dunno man.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\bin\Debug\i dunno man.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\bin\Debug\i dunno man.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\obj\Debug\i dunno man.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\obj\Debug\i dunno man.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\obj\Debug\i dunno man.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\i dunno man\i dunno man\obj\Debug\i dunno man.pdb

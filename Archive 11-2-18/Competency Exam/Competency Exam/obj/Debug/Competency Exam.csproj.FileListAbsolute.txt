@@ -1,0 +1,14 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\bin\Debug\Competency Exam.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\bin\Debug\Competency Exam.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\bin\Debug\Competency Exam.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.pdb
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\bin\Debug\Competency Exam.exe.config
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\bin\Debug\Competency Exam.exe
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\bin\Debug\Competency Exam.pdb
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.csprojAssemblyReference.cache
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.csproj.CoreCompileInputs.cache
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.exe
+C:\Users\natal\OneDrive - Academy District 20\Coding\Competency Exam\Competency Exam\obj\Debug\Competency Exam.pdb

@@ -1,0 +1,2 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\Arrays\Arrays\obj\Debug\Arrays.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Arrays\Arrays\obj\Debug\Arrays.csproj.CoreCompileInputs.cache

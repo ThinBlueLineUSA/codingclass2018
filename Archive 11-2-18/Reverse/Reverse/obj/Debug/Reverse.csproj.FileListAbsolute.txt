@@ -1,0 +1,6 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\Reverse\Reverse\bin\Debug\Reverse.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\Reverse\Reverse\bin\Debug\Reverse.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Reverse\Reverse\bin\Debug\Reverse.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\Reverse\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Reverse\Reverse\obj\Debug\Reverse.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Reverse\Reverse\obj\Debug\Reverse.pdb

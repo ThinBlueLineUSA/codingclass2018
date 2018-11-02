@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScrewingAround 9-19", "ScrewingAround 9-19\ScrewingAround 9-19.csproj", "{0B596A89-FEA1-493E-8A24-60E9A831F5CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B596A89-FEA1-493E-8A24-60E9A831F5CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B596A89-FEA1-493E-8A24-60E9A831F5CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B596A89-FEA1-493E-8A24-60E9A831F5CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B596A89-FEA1-493E-8A24-60E9A831F5CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C0EE9E-32A9-43FF-8A55-A9C70718C858}
+	EndGlobalSection
+EndGlobal

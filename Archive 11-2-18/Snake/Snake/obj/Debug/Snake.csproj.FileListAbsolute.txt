@@ -1,0 +1,6 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\Snake\Snake\bin\Debug\Snake.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\Snake\Snake\bin\Debug\Snake.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Snake\Snake\bin\Debug\Snake.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Snake\Snake\obj\Debug\Snake.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Snake\Snake\obj\Debug\Snake.pdb

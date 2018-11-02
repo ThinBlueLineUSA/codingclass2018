@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\bin\Debug\AllYourBase.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\bin\Debug\AllYourBase.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\bin\Debug\AllYourBase.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\obj\Debug\AllYourBase.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\obj\Debug\AllYourBase.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\obj\Debug\AllYourBase.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\AllYourBase\AllYourBase\obj\Debug\AllYourBase.pdb

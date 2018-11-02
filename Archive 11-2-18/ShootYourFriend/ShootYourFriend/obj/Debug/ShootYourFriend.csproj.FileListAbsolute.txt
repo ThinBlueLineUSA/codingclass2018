@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\bin\Debug\ShootYourFriend.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\bin\Debug\ShootYourFriend.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\bin\Debug\ShootYourFriend.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\obj\Debug\ShootYourFriend.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\obj\Debug\ShootYourFriend.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\obj\Debug\ShootYourFriend.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\ShootYourFriend\ShootYourFriend\obj\Debug\ShootYourFriend.pdb
