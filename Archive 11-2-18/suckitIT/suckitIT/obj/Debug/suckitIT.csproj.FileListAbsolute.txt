@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\bin\Debug\suckitIT.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\bin\Debug\suckitIT.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\bin\Debug\suckitIT.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\obj\Debug\suckitIT.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\obj\Debug\suckitIT.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\obj\Debug\suckitIT.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\suckitIT\suckitIT\obj\Debug\suckitIT.pdb

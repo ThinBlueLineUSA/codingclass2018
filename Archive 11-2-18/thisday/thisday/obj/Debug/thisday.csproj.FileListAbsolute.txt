@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\bin\Debug\thisday.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\bin\Debug\thisday.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\bin\Debug\thisday.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\obj\Debug\thisday.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\obj\Debug\thisday.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\obj\Debug\thisday.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\thisday\thisday\obj\Debug\thisday.pdb

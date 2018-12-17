@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\bin\Debug\TempCalc.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\bin\Debug\TempCalc.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\bin\Debug\TempCalc.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\obj\Debug\TempCalc.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\obj\Debug\TempCalc.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\obj\Debug\TempCalc.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\TempCalc\TempCalc\obj\Debug\TempCalc.pdb

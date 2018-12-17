@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\bin\Debug\TickyTackyToesies.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\bin\Debug\TickyTackyToesies.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\bin\Debug\TickyTackyToesies.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\obj\Debug\TickyTackyToesies.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\obj\Debug\TickyTackyToesies.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\obj\Debug\TickyTackyToesies.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\TickyTackyToesies\TickyTackyToesies\obj\Debug\TickyTackyToesies.pdb

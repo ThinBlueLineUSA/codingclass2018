@@ -1,0 +1,7 @@
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\bin\Debug\Ultimate Comeback Generator.exe.config
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\bin\Debug\Ultimate Comeback Generator.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\bin\Debug\Ultimate Comeback Generator.pdb
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\obj\Debug\Ultimate Comeback Generator.csprojAssemblyReference.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\obj\Debug\Ultimate Comeback Generator.csproj.CoreCompileInputs.cache
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\obj\Debug\Ultimate Comeback Generator.exe
+C:\Users\144544\OneDrive - Academy District 20\Coding\Ultimate Comeback Generator\Ultimate Comeback Generator\obj\Debug\Ultimate Comeback Generator.pdb
